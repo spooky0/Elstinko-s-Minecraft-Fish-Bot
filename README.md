@@ -1,4 +1,4 @@
-# Elstinko-s-Fish-Bot
+# Elstinko-s-Fish-Bot Any Minecraft Version
 Just a small sound activated fish bot.
 
 
