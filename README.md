@@ -2,12 +2,6 @@
 Just a small sound activated fish bot.
 
 
-
-Please considering donating at: paypal.me/ElstinkosFishBot
-
-
-
-
 Important Notes:
 
 You will not be able to use your computer for other tasks while this bot runs, it requires the game to be in focus and have access to your mouse.
