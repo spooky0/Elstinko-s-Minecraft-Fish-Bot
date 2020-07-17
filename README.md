@@ -8,8 +8,6 @@ Please considering donating at: paypal.me/ElstinkosFishBot
 
 
 
-All donations help me keep this bot up to date!
-
 Important Notes:
 
 You will not be able to use your computer for other tasks while this bot runs, it requires the game to be in focus and have access to your mouse.
