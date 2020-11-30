@@ -16,7 +16,7 @@ Turn of all in-game sounds except sound effects for this to work best.
 
 To run Elstinko's Fish Bot:
 
-1. Open the EXE found in the same folder as this readme file: "Elstinko's Fish Bot"
+1. Open the EXE found in the same folder as this readme file: "Elstinko's Fish Bot".  You may need to run as administrator.
 
 2. In the drop down on the top of the application select which device outputs your sound
 
